@@ -5,7 +5,6 @@ This repository contains a collection of **SQL and PL/SQL projects** designed to
 It includes real-world datasets, SQL exercises, PL/SQL scripts, and challenges to improve your **database skills** and create a strong portfolio.<br>
 The projects demonstrate how SQL and PL/SQL can be used to **extract insights, automate tasks, and handle complex data operations**.<br>
 
----
 
 ## 🎯 Objectives:
 - Practice SQL queries for data retrieval and analysis  
@@ -14,16 +13,12 @@ The projects demonstrate how SQL and PL/SQL can be used to **extract insights, a
 - Build hands-on experience with relational databases  
 - Create a strong database project portfolio  
 
----
-
 ## 🛠️ Tools & Technologies Used:
 - Oracle Database / SQL Server / MySQL  
 - SQL queries for SELECT, JOIN, GROUP BY, and aggregations  
 - PL/SQL programming: procedures, functions, triggers, packages  
 - SQL Developer / PG Admin / DBeaver / MySQL Workbench  
 - Real-world datasets in CSV / Excel  
-
----
 
 ## 📂 Projects & Resources Included:
 This repository contains a variety of SQL & PL/SQL learning materials and projects:
@@ -78,7 +73,7 @@ This repository contains a variety of SQL & PL/SQL learning materials and projec
 
 ### 4️⃣ Explore SQL challenges and try solving them before checking solutions
 
-##📌 Learning Outcome:
+## 📌 Learning Outcome:
 - By working on these projects and challenges, you will learn:
 - How to write efficient SQL queries for real-world datasets
 - How to implement PL/SQL procedures, functions, triggers, and packages
@@ -86,18 +81,18 @@ This repository contains a variety of SQL & PL/SQL learning materials and projec
 - How to handle data migration and transformation tasks
 - How to build a professional SQL/PLSQL portfolio
 
-##🚀 Future Scope:
+## 🚀 Future Scope:
 - Add more real-world SQL & PL/SQL projects
 - Include database design and normalization exercises
 - Add complex SQL challenges for interview preparation
 - Include integrations with Python / Power BI for analytics
 - Improve documentation and explanations with diagrams
 
-###👨‍💻 Author<br>
+### 👨‍💻 Author<br>
 Vaibhav Dhakulkar<br>
 Data Analyst | SQL | PL/SQL | Python | Power BI | Excel
 
-###⭐ Support:
+### ⭐ Support:
 If you find this repository useful, please consider supporting me by:
 - ⭐ Starring this repository
 - 👍 Liking and sharing my content
