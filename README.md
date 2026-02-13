@@ -5,7 +5,6 @@ This repository contains a collection of **SQL and PL/SQL projects** designed to
 It includes real-world datasets, SQL exercises, PL/SQL scripts, and challenges to improve your **database skills** and create a strong portfolio.<br>
 The projects demonstrate how SQL and PL/SQL can be used to **extract insights, automate tasks, and handle complex data operations**.<br>
 
-
 ## 🎯 Objectives:
 - Practice SQL queries for data retrieval and analysis  
 - Learn advanced PL/SQL concepts including procedures, functions, triggers, and packages  
@@ -59,18 +58,14 @@ This repository contains a variety of SQL & PL/SQL learning materials and projec
 ---
 
 ## ▶️ How to Use the Repository:
-
 ### 1️⃣ Clone the repository:
 - git clone https://github.com/your-username/SQL-PLSQL-Projects.git
-
 ### 2️⃣ Open the SQL/PLSQL files using your database client:
 - Oracle SQL Developer
 - MySQL Workbench
 - SQL Server
 - PG Admin
-
 ### 3️⃣ Run the scripts step by step to practice and learn
-
 ### 4️⃣ Explore SQL challenges and try solving them before checking solutions
 
 ## 📌 Learning Outcome:
@@ -100,12 +95,9 @@ If you find this repository useful, please consider supporting me by:
 - 💬 Giving your valuable feedback
 
 ### 🔗 Connect with Me:
+📌Email: vaibhavdhakulkar1998@gmail.com<br>
+📌 Follow me on LinkedIn: https://www.linkedin.com/in/vaibhavdhakulkar25<br>
+📌 Subscribe to my YouTube channel: https://www.youtube.com/@VaibhavRajAsha<br>
 
-📌 Follow me on LinkedIn:<br>
-https://www.linkedin.com/in/vaibhavdhakulkar25
-
-📌 Subscribe to my YouTube channel:<br>
-https://www.youtube.com/@VaibhavRajAsha<br>
-
-Your support motivates me to create more SQL, PL/SQL projects, and learning content.
+Your support motivates me to create more SQL, PL/SQL projects, and learning content.<br>
 Thank you! 🙏
